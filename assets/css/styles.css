@@ -8,7 +8,7 @@
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: hsl(28, 88%, 62%);
-  --first-color-alt: hsl(28, 37%, 20%);
+  --first-color-alt: hsl(30, 87%, 61%);
   --title-color: hsl(0, 0%, 95%);
   --text-color: hsl(0, 0%, 75%);
   --text-color-light: hsl(0, 0%, 65%);
@@ -59,7 +59,7 @@
 }
 
 html {
-  scroll-behavior: smoot;
+  scroll-behavior: smooth;
 }
 
 body,
